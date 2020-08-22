@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="images-md/kaggle.png" alt="Project logo"></a>
+ <img width=200px height=200px src="data&utils/imagesMD/kaggle.pngkaggle.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">3D hand gesture recognition using Deep Learning - Data Challenge Univ.Lille</h3>
@@ -26,7 +26,7 @@ Effective and inexpensive depth sensors, like the Intel RealSense or the Leap Mo
 
 The Intel RealSense short range depth camera is used to collect our dataset.
 
-<img src="images-md/capture.PNG"
+<img src="data&utils/imagesMD/capture.PNG"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
@@ -41,7 +41,7 @@ The Intel RealSense short range depth camera is used to collect our dataset.
 
 The dataset contains sequences of 14 hand gestures performed in two ways: using one finger and the whole hand. Each gesture is performed between 1 and 10 times by 28 participants in 2 ways, resulting in 2800 sequences. All participants are right handed. Sequences are labelled following their gesture, the number of fingers used, the performer and the trial. However, for this challenge, only the case of 28 class categories are considered (the same gesture performed using one finger and the whole hand gives rise to two different classes). Each frame of sequences contains the coordinates of 22 joints both in the 2D depth image space and in the 3D world space forming a full hand skeleton. The Intel RealSense short range depth camera is used to collect our dataset. The skeletons were captured at 30 frames per second.
 
-Data and utils : [link](./data&utils)
+Data and utils : [link](./data&utils/) (data is zipped)
 
 ### File descriptions
 
