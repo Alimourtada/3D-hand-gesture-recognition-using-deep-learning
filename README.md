@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="data&utils/imagesMD/kaggle.pngkaggle.png" alt="Project logo"></a>
+ <img width=200px height=200px src="data&utils/imagesMD/kaggle.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">3D hand gesture recognition using Deep Learning - Data Challenge Univ.Lille</h3>
