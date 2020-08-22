@@ -65,6 +65,8 @@ We ranked 1st with 92% accuracy ahead of second place with ~10 % in scoring.
 
 - Hat tip to Prof. **Wannous** for this wonderful and enriching challenge ! 
 - References
+
+
   Quentin De Smedt, Hazem Wannous, Jean-Philippe Vandeborre: Heterogeneous hand gesture recognition using 3D dynamic skeletal data. Computer Vision and Image Understanding 181: 60-72 (2019)
 
   Quentin De Smedt, Hazem Wannous, Jean-Philippe Vandeborre, Joris Guerry, Bertrand Le Saux, David Filliat: 3D Hand Gesture Recognition Using a Depth and Skeletal Dataset. 3DOR 2017
