@@ -26,7 +26,7 @@ Effective and inexpensive depth sensors, like the Intel RealSense or the Leap Mo
 
 The Intel RealSense short range depth camera is used to collect our dataset.
 
-<img src="data&utils/imagesMD/capture.PNG"
+<img src="data&utils/imagesMD/capture.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
