@@ -64,7 +64,7 @@ We ranked 1st with 92% accuracy ahead of second place with ~10 % in scoring.
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
 - Hat tip to Prof. **Wannous** for this wonderful and enriching challenge ! 
-- Many thanks for my teamates Ali, Imad and Abdellah for the fun learning experience and determination to create a good classification model and have a good score in the kaggle competetion.
+- Many thanks for my teamates Ali, Imad and Abdellah for the fun learning experience and determination to create a good classification model and have a good score in the kaggle competition.
 - References
 
 
